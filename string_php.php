@@ -5,7 +5,4 @@
     echo "</br>";
     echo "The length of string is:".strlen($string)."</br>";
     echo "The words in the string are: ".str_word_count($string);
-
-    
-
  ?>
